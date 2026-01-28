@@ -1,0 +1,4 @@
+# build outputs (ESP-IDF style)
+build/
+*.log
+sdkconfig.old

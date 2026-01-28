@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("hello git-lab-embedded\n");
+    printf("hello from ThinkPad\n");
     return 0;
 }
